@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Title Suff Do Pass As Amended",
+    "date": "2025-05-28T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2042"
+}

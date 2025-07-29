@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Partially Vetoed By Governor",
+    "date": "2025-06-17T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2044"
+}
