@@ -1,0 +1,364 @@
+{
+  "identifier": "",
+  "motion_text": "Passage",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-28T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "20251E",
+  "bill": "9a49ec3a-b12e-11f0-95a1-66c6cf46f674",
+  "bill_action": null,
+  "bill_identifier": "SB2040",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Berry",
+      "voter_id": "~{\"name\": \"Berry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blackwell",
+      "voter_id": "~{\"name\": \"Blackwell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blount",
+      "voter_id": "~{\"name\": \"Blount\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boyd",
+      "voter_id": "~{\"name\": \"Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brumfield",
+      "voter_id": "~{\"name\": \"Brumfield\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryan",
+      "voter_id": "~{\"name\": \"Bryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carter",
+      "voter_id": "~{\"name\": \"Carter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chassaniol",
+      "voter_id": "~{\"name\": \"Chassaniol\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeBar",
+      "voter_id": "~{\"name\": \"DeBar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeLano",
+      "voter_id": "~{\"name\": \"DeLano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "England",
+      "voter_id": "~{\"name\": \"England\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fillingane",
+      "voter_id": "~{\"name\": \"Fillingane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hopson",
+      "voter_id": "~{\"name\": \"Hopson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirby",
+      "voter_id": "~{\"name\": \"Kirby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCaughn",
+      "voter_id": "~{\"name\": \"McCaughn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McLendon",
+      "voter_id": "~{\"name\": \"McLendon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McMahan",
+      "voter_id": "~{\"name\": \"McMahan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michel",
+      "voter_id": "~{\"name\": \"Michel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parker",
+      "voter_id": "~{\"name\": \"Parker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Parks",
+      "voter_id": "~{\"name\": \"Parks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rhodes",
+      "voter_id": "~{\"name\": \"Rhodes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robinson",
+      "voter_id": "~{\"name\": \"Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seymour",
+      "voter_id": "~{\"name\": \"Seymour\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Simmons S. (13th)",
+      "voter_id": "~{\"name\": \"Simmons S. (13th)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sparks",
+      "voter_id": "~{\"name\": \"Sparks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Suber",
+      "voter_id": "~{\"name\": \"Suber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tate",
+      "voter_id": "~{\"name\": \"Tate\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thompson",
+      "voter_id": "~{\"name\": \"Thompson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner-Ford",
+      "voter_id": "~{\"name\": \"Turner-Ford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Whaley",
+      "voter_id": "~{\"name\": \"Whaley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wiggins",
+      "voter_id": "~{\"name\": \"Wiggins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Younger",
+      "voter_id": "~{\"name\": \"Younger\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Blackmon",
+      "voter_id": "~{\"name\": \"Blackmon\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Frazier",
+      "voter_id": "~{\"name\": \"Frazier\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Horhn",
+      "voter_id": "~{\"name\": \"Horhn\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jackson",
+      "voter_id": "~{\"name\": \"Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jordan",
+      "voter_id": "~{\"name\": \"Jordan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Norwood",
+      "voter_id": "~{\"name\": \"Norwood\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Simmons D",
+      "voter_id": "~{\"name\": \"Simmons D\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "T. (12th)",
+      "voter_id": "~{\"name\": \"T. (12th)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Thomas",
+      "voter_id": "~{\"name\": \"Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Barnett",
+      "voter_id": "~{\"name\": \"Barnett\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Chism",
+      "voter_id": "~{\"name\": \"Chism\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Harkins",
+      "voter_id": "~{\"name\": \"Harkins\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ladner",
+      "voter_id": "~{\"name\": \"Ladner\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Polk",
+      "voter_id": "~{\"name\": \"Polk\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Hickman",
+      "voter_id": "~{\"name\": \"Hickman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 37
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://billstatus.ls.state.ms.us/20251E/pdf/votes/senate/0010056.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "http://billstatus.ls.state.ms.us/20251E/pdf/votes/senate/0010056.pdf#SB2040"
+}

@@ -1,0 +1,250 @@
+{
+  "legislative_session": "20251E",
+  "identifier": "SB2049",
+  "title": "State Budget process; revise provisions related to and transfer certain funds.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred To Appropriations",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2025-05-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2025-05-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2025-06-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2025-06-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2025-06-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:12:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hopson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/20251E/html/SB/2001-2099/SB2049SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/20251E/pdf/SB/2001-2099/SB2049SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/20251E/html/SB/2001-2099/SB2049IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/20251E/pdf/SB/2001-2099/SB2049IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/20251E/html/SB/2001-2099/SB2049PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/20251E/pdf/SB/2001-2099/SB2049PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://billstatus.ls.state.ms.us/documents/20251E/pdf/SB/2001-2099/SB2049SG.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/20251E/pdf/Senate_authors/Hopson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/20251E/pdf/history/SB/SB2049.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-113-55, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT MONIES IN THE MISSISSIPPI STATE UNIVERSITY VETERINARY SCHOOL FUND SHALL BE DISBURSED BY THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING INSTEAD OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION; TO AMEND SECTION 1 OF CHAPTER 534, LAWS OF 2024, TO CORRECT THE REFERENCE TO THE FUND NUMBER FOR THE 2022 EMERGENCY ROAD AND BRIDGE FUND; TO DIRECT THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER TO TRANSFER TO THE STATE TREASURER FROM THE AUTHORIZED BANK ACCOUNT A CERTAIN SUM FOR THE OFFICE OF MISSISSIPPI PHYSICIAN WORKFORCE, FOR DEPOSIT TO THE CREDIT OF THE STATE DEPARTMENT OF HEALTH FOR THE PHYSICIAN WORKFORCE PROGRAM; TO CREATE THE \"MISSISSIPPI VETERAN'S HOME IMPROVEMENT FUND\" IN THE STATE TREASURY AND DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE MSVA-BOARD CEF TO THE FUND; TO CREATE THE \"UNITED STATES FIRE INSURANCE COMPANY SETTLEMENT FUND\" IN THE STATE TREASURY AND DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE ATTORNEY GENERAL CONTINGENT FUND TO THE SETTLEMENT FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE CAPITAL EXPENSE FUND - DFA TO THE 2022 IHL CAPITAL IMPROVEMENTS FUND; TO AUTHORIZE THOSE FUNDS TO BE USED TO PAY THE COSTS FOR THE REPAIR OR RENOVATION OF SYSTEMS OR BUILDINGS ON THE HATTIESBURG CAMPUS OF THE UNIVERSITY OF SOUTHERN MISSISSIPPI; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE MARCH 2023 STORM HOUSING MISSION FUND TO THE HAZARD MITIGATION ADMINISTRATION AND MANAGEMENT FUND; TO DIRECT THE STATE TREASURER TO TRANSFER THE REMAINING BALANCE OF THE MARCH 2023 STORM HOUSING MISSION FUND TO THE DISASTER ASSISTANCE TRUST FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE CAPITAL EXPENSE FUND TO THE DISASTER ASSISTANCE TRUST FUND; TO REPEAL SECTION 33-15-55, MISSISSIPPI CODE OF 1972, WHICH IS THE PROVISION OF LAW CREATING THE MARCH 2023 STORM HOUSING MISSION FUND; TO CREATE THE \"DBCF CIVIL MONEY PENALTY FUND\" IN THE STATE TREASURY AND DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE CONSUMER FINANCE FUND TO THE PENALTY FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE APPROPRIATE FINANCIAL INSTITUTIONS TO THE NG911 CMRS GRANT FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE APPROPRIATE FINANCIAL INSTITUTIONS TO THE STATE NG911 FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE CAPITAL EXPENSE FUND TO THE BOARD OF ANIMAL HEALTH DISEASE RESPONSE FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE CAPITAL EXPENSE FUND TO THE MISSISSIPPI DEPARTMENT OF TRANSPORTATION STRATEGIC MULTI-MODAL INVESTMENTS FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE CAPITAL EXPENSE FUND TO THE MISSISSIPPI DEPARTMENT OF TRANSPORTATION 2022 INFRASTRUCTURE MATCH FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE ANNUAL FIRE FUND TO THE RURAL FIRE TRUCK MATCHING ASSISTANCE FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE ANNUAL FIRE FUND TO THE MISSISSIPPI VOLUNTEER FIREFIGHTER LENGTH OF SERVICE AWARDS PROGRAM FUND; TO DIRECT THE STATE TREASURER TO TRANSFER A CERTAIN SUM FROM THE CAPITAL EXPENSE FUND TO THE MISSISSIPPI OUTDOOR STEWARDSHIP TRUST FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:12:05Z"
+  }
+}
